@@ -4,10 +4,12 @@ export const ABOUT_TEXT = `À 23 ans, résidant dans le paysage dynamique du Can
 export const EXPERIENCES = [
   {
     year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Node.js", "mongoDB"],
+    role: "Stagiaire en Informatique / Projet de synthèse",
+    company: "Université du Québec à Trois-Rivières",
+    description: `Conception et développement d'une application web de réservation comme projet de
+    session. Ce projet visait à démontrer une capacité à mener à bien le développement complet d'une
+    solution logicielle, de l'idée initiale jusqu'au déploiement.`,
+    technologies: [, "React.js","Tailwind css", "Node.js", "mongoDB"],
   },
 ];
 
