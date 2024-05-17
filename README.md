@@ -1,8 +1,18 @@
-# React + Vite
+# Portfolio de Winner Pindi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenue dans mon portfolio ! Ce projet a été conçu pour présenter mes compétences et mes projets en tant que développeur frontend. Il a été créé en utilisant React, Tailwind CSS et Framer Motion pour des animations fluides et dynamiques.
 
-Currently, two official plugins are available:
+## Technologies utilisées
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React** : Une bibliothèque JavaScript pour construire des interfaces utilisateur.
+- **Tailwind CSS** : Un framework CSS utilitaire pour un développement rapide et réactif.
+- **Framer Motion** : Une bibliothèque pour créer des animations fluides et naturelles.
+
+## Installation
+
+Pour installer et exécuter ce projet localement, suivez les étapes ci-dessous :
+
+1. Cloner le projet
+2. npm install
+3. npm run dev
+
