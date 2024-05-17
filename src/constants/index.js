@@ -1,3 +1,8 @@
+import project1 from "../assets/projects/Projet-1.png"
+import project2 from "../assets/projects/projet-2.png"
+import project3 from "../assets/projects/projet-3.png"
+
+
 export const HERO_CONTENT = `Je suis passionné par la création d'expériences faciles à utiliser, accessibles et qui répondent aux besoins de l'utilisateur`;
 export const ABOUT_TEXT = `À 23 ans, résidant dans le paysage dynamique du Canada, mon odyssée du codage a commencé en 2019. Cette première incursion s'est rapidement transformée en un amour ardent pour la programmation Web. Chaque projet dans lequel je me lance transcende le simple codage ; c'est l'occasion d'insuffler l'innovation et la créativité dans le monde numérique. Chaque étape de ce voyage est marquée par la réussite de divers défis et par le plaisir de découvrir quelque chose de nouveau dans chaque projet. Passionné par la création d'expériences utilisateur fluides et d'applications robustes, je cherche constamment à élargir mes compétences et à me tenir au courant des dernières avancées technologiques. Grâce à ma persévérance et à mon engagement envers l'excellence, je m'efforce de laisser un impact significatif sur le domaine en constante évolution du développement Web.`;
 
@@ -16,20 +21,20 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     title: "BookNow",
-    description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+    description:"Cette application web de réservation a été conçue et développée pour faciliter la réservation d'une chambre d'hotel en ligne",
+    image: project1,
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
     title: "Watowatch",
-    description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["Angular", "The Movie Database"],
+    description:"Watowatch, une application web React conçue pour recommander des films et des séries. ",
+    image: project2,
+    technologies: ["React", "The Movie Database"],
   },
   {
     title: "Pokedex",
-    description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
+    image: project3,
+    description:"Application web conçue avec la technologie Angular, permettant de gérer les données relatives aux Pokémons",
     technologies: ["Angular"],
   },
 ];
