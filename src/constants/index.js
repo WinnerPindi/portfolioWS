@@ -24,18 +24,21 @@ export const PROJECTS = [
     description:"Cette application web de réservation a été conçue et développée pour faciliter la réservation d'une chambre d'hotel en ligne",
     image: project1,
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+    github: "https://github.com/WinnerPindi/BookNowApp"
   },
   {
     title: "Watowatch",
     description:"Watowatch, une application web React conçue pour recommander des films et des séries. ",
     image: project2,
     technologies: ["React", "The Movie Database"],
+    github: "https://github.com/WinnerPindi/react-tv-show-adviser"
   },
   {
     title: "Pokedex",
     image: project3,
     description:"Application web conçue avec la technologie Angular, permettant de gérer les données relatives aux Pokémons",
     technologies: ["Angular"],
+    github: "https://github.com/WinnerPindi/ng-pokemon-app"
   },
 ];
 
